@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, SafeAreaView, SectionList, StatusBar, Image } f
 function ContactItem({navigation, data}) {
 	return (
 		<View style={styles.item} onStartShouldSetResponder = { () => {
-			navigation.navigate('DetailContact', { data:data });
+			navigation.navigate('Detail', { data:data });
 		}}>
 			<Image source={{ uri: data.smallImageURL }} style={styles.avatar} />
 			{
