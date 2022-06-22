@@ -4,20 +4,25 @@ Test Task(Contact ListView with Detail View)
 
 - Install latest stable Node.js
 - Configure React Native Development environment
-   npm i -g react-native
+
+   <strong>npm i -g react-native</strong>
 - Running
 
-   git clone https://github.com/Dev-Monster11/ReactNativeContactList.git
+   <strong>git clone https://github.com/Dev-Monster11/ReactNativeContactList.git</strong>
    
-   cd ReactNativeContactList
+   <strong>cd ReactNativeContactList</strong>
    
-   npm i --save
+   <strong>npm i --save</strong>
+   
+   
    
    <h3>✓Android</h3>
    
-   npm run android
+   <strong>npm run android</strong>
    
-   npm start
+   <strong>npm start</strong>
+   
+   
    <pre>
    <img src="./screenshots/android.gif" />
    </pre>
@@ -25,11 +30,11 @@ Test Task(Contact ListView with Detail View)
    <h3>✓iOS</h3>
    
    
-   cd ios
+   <strong>cd ios</strong>
    
-   pod install
+   <strong>pod install</strong>
    
-   npm run ios
+   <strong>npm run ios</strong>
    
-   npm start
+   <strong>npm start</strong>
 
