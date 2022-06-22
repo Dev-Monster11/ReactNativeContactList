@@ -22,6 +22,11 @@ Test Task(Contact ListView with Detail View)
    
    iOS
    
+   
+   cd ios
+   
+   pod install
+   
    npm run ios
    
    npm start
