@@ -20,10 +20,10 @@ const App = () => (
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen 
-          name="ContactList" 
+          name="Contacts" 
           component={ContactList} />
         <Stack.Screen 
-          name="DetailContact" 
+          name="Detail" 
           component={DetailContact}
         />
       </Stack.Navigator>
