@@ -18,8 +18,9 @@ Test Task(Contact ListView with Detail View)
    npm run android
    
    npm start
-   
+   <pre>
    <img src="./screenshots/android.gif" />
+   </pre>
    iOS
    
    
