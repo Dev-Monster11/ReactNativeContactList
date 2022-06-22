@@ -13,7 +13,7 @@ Test Task(Contact ListView with Detail View)
    
    npm i --save
    
-   ✓<h3>Android</h3>
+   <h3>✓Android</h3>
    
    npm run android
    
@@ -22,7 +22,7 @@ Test Task(Contact ListView with Detail View)
    <img src="./screenshots/android.gif" />
    </pre>
    
-   ✓<h3>iOS</h3>
+   <h3>✓iOS</h3>
    
    
    cd ios
