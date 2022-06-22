@@ -14,12 +14,14 @@ Test Task(Contact ListView with Detail View)
    npm i --save
    
    Android
+   
    npm run android
    
    npm start
    
    
    iOS
+   
    npm run ios
    
    npm start
